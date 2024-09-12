@@ -7,7 +7,8 @@
 | 수업 이름                                 | 딥러닝 응용                                                     |
 | 교수님                                    | 이명규 교수님                                                   |
 
-
+---
+- 중간고사 공지  https://cyber.gachon.ac.kr/mod/ubboard/article.php?id=859585&bwid=784931
   [이론]  
 인공지능 기초를 위한 FAQ  
 https://github.com/MyungKyuYi/AI-class/blob/main/README.md  
