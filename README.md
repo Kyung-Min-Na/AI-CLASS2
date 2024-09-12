@@ -8,14 +8,15 @@
 | 교수님                                    | 이명규 교수님                                                   |
 
 ---
-- 중간고사 공지  https://cyber.gachon.ac.kr/mod/ubboard/article.php?id=859585&bwid=784931
+- 중간고사 공지  https://cyber.gachon.ac.kr/mod/ubboard/article.php?id=859585&bwid=784931  
   [이론]  
 인공지능 기초를 위한 FAQ  
 https://github.com/MyungKyuYi/AI-class/blob/main/README.md  
 + 추가적인 수업내용
   
 [실습]  
-csv 파일을 주면, 자신의 github를 참조해서 머신러닝 분류/회귀, 딥러닝 분류/회귀 작성하기
+csv 파일을 주면, 자신의 github를 참조해서 머신러닝 분류/회귀, 딥러닝 분류/회귀 작성하기  
+---
 
 - 하이퍼파라미터 튜닝  
   https://cyber.gachon.ac.kr/mod/ubboard/article.php?id=859585&bwid=785843
