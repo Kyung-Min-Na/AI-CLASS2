@@ -43,6 +43,10 @@ csv 파일을 주면, 자신의 github를 참조해서 머신러닝 분류/회�
 
 
 ---
-- 1주차 과제
+- 1주차 과제(이게 2주차라고 함..)
   1. Abalone 데이터로 (ML : classification, regression), (CNN : classification, regression) 진행하기 https://cyber.gachon.ac.kr/mod/ubboard/article.php?id=859585&bwid=784917  
   2. diabetes 데이터로 ML(SVM, LR, RF, DT, KNN), DL, Regression, CNN regression 진행하기  https://cyber.gachon.ac.kr/mod/ubboard/article.php?id=859585&bwid=783787
+    
+- 3주차 과제
+  1. 2주차 과제의 Abalone의 분류와 회귀(classification/regression)를 CNN과 LSTM으로 분류 및 회귀를 작성하라.
+  2. **선택 도전과제** 분류를 위한 순환데이터 만들기(split_squance를 수정하시오)
